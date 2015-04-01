@@ -29,3 +29,5 @@ karma start
 ```
 
 There should be no duplicate test runs.
+
+Output comparison: https://gist.github.com/alanctkc/79c2c4586f13f22bd8e6

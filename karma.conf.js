@@ -17,7 +17,7 @@ module.exports = function(config) {
     ],
 
     preprocessors: {
-      'the-test.spec.js': [],
+      'the-test.spec.js': ['webpack'],
     },
 
     plugins: [

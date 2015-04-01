@@ -1,3 +1,5 @@
+Re: this issue - https://github.com/webpack/karma-webpack/issues/44
+
 To repro,
 
 ```
